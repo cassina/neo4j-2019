@@ -258,3 +258,4 @@ tags
 [._]*.un~
 
 .idea/
+config.py
